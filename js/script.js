@@ -39,7 +39,8 @@
         padding: '0 45px',
         boxSizing: 'border-box',
         border: 'none'
-      }
+      },
+      hintStyle:{position:'absolute', top: '0px'},
     });
   });
 })(jQuery);
